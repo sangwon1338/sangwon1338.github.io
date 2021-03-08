@@ -3,7 +3,7 @@
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 vvs:
   name:              Sangwon Baek
-  email:             swbaek@gmail.com
+  email:             swbaek1338@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -48,7 +48,7 @@ vvs:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          angwon1338
+    github:          sangwon1338
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
