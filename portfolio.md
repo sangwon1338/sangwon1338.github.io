@@ -58,11 +58,15 @@ font-weight:bold">
 ## Project
 ---
 
-* **부분가림 이미지 영상복원**
+* **딥러닝 기반 부분 가림 영상 복원 기술 개발**
 
-국방과학 연구소 : 석사과정
+   + 국방과학연구소 Agency for Defense Develoment
 
-
+   + 2020년 2월 – 현재 진행중
+   
+   + Team leader
+   
+   + Related work : Photo realistic ,Style transfer , Object detection , XAI(explainable AI), Classification
 
 ## Awards
 ---
