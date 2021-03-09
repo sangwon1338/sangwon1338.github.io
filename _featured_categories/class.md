@@ -1,10 +1,11 @@
 ---
 layout: list
 title: Class
-slug: class
+slug: Paper review
 menu: true
 submenu: true
 order: 4
-description: >
+description: |
   수업  
+published: true
 ---
