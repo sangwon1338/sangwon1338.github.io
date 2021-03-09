@@ -2,7 +2,7 @@
 ---
 layout: list
 title: Paper review
-slug: Paper review
+slug: paper review
 menu: true
 submenu: true
 order: 4
