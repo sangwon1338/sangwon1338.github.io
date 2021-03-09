@@ -2,7 +2,8 @@
 layout: tag-blog
 title: VISION
 slug: vision
-category: class
+category: paper review
 menu: false
 order: 2
+published: true
 ---
