@@ -2,7 +2,8 @@
 layout: tag-blog
 title: NLP
 slug: nlp
-category: class
+category: paper review
 menu: false
 order: 1
+published: true
 ---
