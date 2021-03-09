@@ -1,11 +1,14 @@
 ---
 layout: post
+title: 'Nvidia docker 설치'
 subtitle: 설치
+date: '2021-03-09 21:51:51 +0900'
 categories: study
 tags: docker
 comments: true
-title: Nvidia docker 설치
-date: '2021-03-09 21:51:51 +0900'
+published: true
+related_posts:
+  - category/_posts/study/2021-03-09-install-docker.md
 ---
 ## A New Post
 
