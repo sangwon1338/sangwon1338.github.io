@@ -1,10 +1,11 @@
 ---
 published: false
 layout: post
-subtitle: 시작하기
+subtitle: 설치
 categories: study
-tags: githubpage
+tags: docker
 comments: true
+title: Nvidia docker 설치
 ---
 ## A New Post
 
