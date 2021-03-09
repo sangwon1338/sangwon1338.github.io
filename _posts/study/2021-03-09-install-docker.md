@@ -23,7 +23,7 @@ comments: true
 
 
 
-### 0.Docker 설치 전
+### 0. Docker 설치 전
 
 ​	도커 설치하기 전에 기존 도커버전이 깔려 있다면 제거하고 시작해야 된다.
 
@@ -33,7 +33,7 @@ $ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 
 
-#### 1.Docker 저장소 설정
+### 1. Docker 저장소 설정
 
 ```sh
 $ sudo apt-get update
@@ -49,7 +49,7 @@ $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ub
 
 
 
-### 2.Docker Engine 설치
+### 2. Docker Engine 설치
 
 ```sh
 $ sudo apt-get update
@@ -93,7 +93,7 @@ Server: Docker Engine - Community
 
 
 
-### 3.Docker compose 설치
+### 3. Docker compose 설치
 
 ```sh
 $ sudo curl -L "https://github.com/docker/compose/releases/download/1.25.3/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
@@ -103,7 +103,7 @@ $ docker-compose --version
 
 
 
-### 4.Docker의 일반사용자 권한 추가 & 제거
+### 4. Docker의 일반사용자 권한 추가 & 제거
 
 ```sh
 $ sudo usermod -aG docker $USER # 현재 사용자에게 권한주기
@@ -113,7 +113,7 @@ $ sudo service docker restart # 도커 시스템 재시작 하거나 컴퓨터 �
 
 
 
-### 5.Docker 설치 확인
+### 5. Docker 설치 확인
 
 ​	아래의 명령어를 실행 하였을때 Output 과 같이 나와야 한다.
 
@@ -156,7 +156,7 @@ For more examples and ideas, visit:
 
 
 
-### 6.Docker Engine 제거
+### 6. Docker Engine 제거
 
 ```sh
 # 도커 패키지(docker-ce,cli) 제거
