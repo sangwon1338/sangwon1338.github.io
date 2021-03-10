@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Docker 기반의 딥러닝 환경 구축] 01.Docker 설치 (Ubuntu 18.04)'
+title: '[Docker 기반의 딥러닝 환경 구축] 01. Docker 설치 (Ubuntu 18.04)'
 subtitle: 개요
 date: '2021-03-09 17:51:51 +0900'
 categories: study
