@@ -127,8 +127,9 @@ $ docker pull nvidia/cuda:10.0-cudnn7-devel-ubuntu18.04
 $ docker run --gpus all -it nvidia/cuda:10.0-cudnn7-devel-ubuntu18.04 /bin/bash
 $ nvidis-smi
 ```
+![스크린샷 2021-03-10 오후 6 14 31](https://user-images.githubusercontent.com/70992303/110608524-ad431480-81cf-11eb-821c-b9b94c13279d.png)
 
-![스크린샷 2021-03-10 오후 6.14.31](/Users/macmini/Desktop/스크린샷 2021-03-10 오후 6.14.31.png)
+
 
 
 
@@ -147,4 +148,3 @@ $ nvidis-smi
 |   -it   | -i와 -t를 동시에 사용한 것으로 터미널 입력을 위한 옵션 |
 |   -lin   | 컨테이너 연결 [컨테이너명:별칭] |
 |   --gpus   | 그래픽카드를 컨테이너에 연결하기 위한 옵션 |
-
