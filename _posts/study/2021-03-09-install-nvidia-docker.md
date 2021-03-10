@@ -17,7 +17,7 @@ related_posts:
     - [0.Nvidia-docekr 설치 전 Nvidia-driver 설치 필수](#0.Nvidia-docekr 설치 전 Nvidia-driver 설치 필수)
     - [1.Nvidia-docker 설치](#1.Nvidia-docker 설치)
     - [2.Docker에서 Cuda 환경으로 시작하기](#2.Docker에서 Cuda 환경으로 시작하기)
-    - [Docker 실행 옵션](#Docker 실행 옵션
+    - [Docker 실행 옵션](#Docker 실행 옵션)
 
 ### 0.Nvidia-docekr 설치 전 Nvidia-driver 설치 필수
 
