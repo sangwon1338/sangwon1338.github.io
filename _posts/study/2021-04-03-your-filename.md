@@ -4,7 +4,7 @@ title: '[Git] Fork 한 repository 최신으로 동기화하기'
 subtitle: 개요
 date: '2021-04-03 24:51:51 +0900'
 categories: study
-tags: Git
+tags: git
 comments: true
 published: true
 ---
