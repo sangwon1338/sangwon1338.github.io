@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: '[Git] Fork 한 repository 최신으로 동기화하기'
 subtitle: 개요
