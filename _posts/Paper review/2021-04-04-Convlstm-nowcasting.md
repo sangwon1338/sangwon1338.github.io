@@ -9,8 +9,8 @@ comments: true
 ---
 ### Keyword
 
-Seqence to Seqence learning
+- Seqence to Seqence learning
 
-Spatial and temporal 동시 학습 가능
+- Spatial and temporal 동시 학습 가능
 
-Spatial correlation and temporal corelation
+- Spatial correlation and temporal corelation
