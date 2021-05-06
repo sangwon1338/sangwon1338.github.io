@@ -101,7 +101,9 @@ Fast-forward
 
 최종적으로 push 하여 remote repository 에도 적용시켜주면 완료!
 
-
+```sh
+$ git push origitn master
+```
 
 Reference
 
