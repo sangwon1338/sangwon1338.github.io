@@ -14,7 +14,7 @@ related_posts:
 # 개요
 
 - 목차
-    - [0.Dokcer 설치 전](#0.Docker 설치 전)
+    - [0.Dokcer 설치 전](#0.Docker 설치 후)
     - [1.Docker 저장소 설정](#1.Docker 저장소 설정)
     - [2.Docker Engine 설치](#2.Docker Engine 설치)
     - [3.Docker compose 설치](#3.Docker compose 설치)
